@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on Network Automation, Python
 - 📫 Reach me on twitter @fahadhaneefa
 
-
